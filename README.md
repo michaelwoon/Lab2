@@ -10,3 +10,12 @@ Activity 3: I made the column number+1 since it should be 1,2,3 instead of 0,1,2
 Fork: https://github.com/michaelwoon/Lab2Fork-101
 
 Pull Request: https://github.com/UVA-CS3240-S18/Lab2Fork-101/pull/21
+
+Activity 4: Issue
+
+https://github.com/UVA-CS3240-S18/IveGotIssues/issues/29
+
+Activity 5: gitignore
+
+https://github.com/michaelwoon/hello-world/blob/master/.gitignore
+
